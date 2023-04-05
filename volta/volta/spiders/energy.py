@@ -8,4 +8,3 @@ class EnergySpider(scrapy.Spider):
 
     def parse(self, response, **kwargs):
         pass
-

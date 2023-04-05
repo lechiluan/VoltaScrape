@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cdc8722-add7-4348-b4b9-123636763062" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/VoltaScrape.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volta/scrapy.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volta/volta/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volta/volta/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volta/volta/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volta/volta/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volta/volta/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/volta/volta/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/volta/volta/spiders/energy.py" beforeDir="false" afterPath="$PROJECT_DIR$/volta/volta/spiders/energy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/GitHub/VoltaScrape",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -82,6 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680057694067</updated>
       <workItem from="1680057718329" duration="2754000" />
+      <workItem from="1680136160166" duration="1716000" />
     </task>
     <servers />
   </component>
